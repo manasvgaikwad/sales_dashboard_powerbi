@@ -124,5 +124,4 @@ Gross Margin % = DIVIDE([Total Gross Profit], [Total Revenue])
 **Manas**
 Computer Science student | Aspiring Data Analyst
 
-- LinkedIn: [add your link]
-- GitHub: [add your link]
+- LinkedIn: https://www.linkedin.com/in/manas-gaikwad-988ba7266/
