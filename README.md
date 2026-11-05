@@ -112,7 +112,7 @@ Gross Margin % = DIVIDE([Total Gross Profit], [Total Revenue])
 |---|---|
 | `Sales_Dashboard.pbix` | Power BI report file |
 | `Sales_Data.xlsx` | Source dataset |
-| `dashboard.png` | Dashboard screenshot |
+| `Dashboard.png` | Dashboard screenshot |
 | `README.md` | Project documentation |
 
 **To open:** download `Sales_Dashboard.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
