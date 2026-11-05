@@ -2,7 +2,7 @@
 
 A one-page Power BI dashboard that gives an executive view of sales performance for an outdoor and travel gear business selling across Europe in 2026. It tracks revenue, profit, orders and margin, and breaks them down by month, country, product and product category.
 
-![Executive Sales Dashboard](dashboard.png)
+![Executive Sales Dashboard](Dashboard.png)
 
 ---
 
